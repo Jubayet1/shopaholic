@@ -1,7 +1,13 @@
 export const data = [
     {
+        "_id": "6479e6487e81131117e1f942",
+        "name": "Captain America",
+        "image": 'https://i.ibb.co/ZBg5gM1/cap01.png',
+        "description": 'During World War II, Steve Rogers decides to volunteer in an experiment that transforms his weak body. He must now battle a secret Nazi organization headed by Johann Schmidt to defend his nation.'
+    },
+    {
         "_id": "6479e648d734728f6aa54745",
-        "name": "Spider-Man",
+        "name": "Spider Man",
         "image": 'https://i.ibb.co/dmHYTwc/spiderman.png',
         "description": "Peter Parker's life changes when he is bitten by a genetically altered spider and gains superpowers. He uses his powers to help people and finds himself facing the Green Goblin, an evil maniac."
     },
@@ -46,5 +52,6 @@ export const data = [
         "name": "Wanda Maximoff",
         "image": 'https://i.ibb.co/vQsCyPk/wonda01.png',
         "description": 'Wanda is initially depicted as a Sokovian refugee who, along with her twin brother Pietro, volunteers to be experimented on by Hydra.'
-    }
+    },
+
 ]
